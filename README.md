@@ -29,4 +29,7 @@
 
    Aplikasi web untuk membuat / mengenerate aplikasi lain yang mengambil data dari sebuah rest backend, backend akan berbasis REST dan frontend berbasis angular.
 
-2.
+2. **Colony Forming Counter**
+
+   Aplikasi android untuk menghitung jumlah koloni bakteri pada laboratorium, bahan bacaan :
+   http://medixgraph.com/cfuscope.html, https://www.nature.com/articles/s41598-018-24916-9, http://opencfu.sourceforge.net/, https://arxiv.org/pdf/1210.5502.pdf
