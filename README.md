@@ -2,7 +2,7 @@
 
 ## TOS
 
-1. Semua pekerjaan akan di track melalui github trello dan wakatime
+1. Semua pekerjaan akan di track melalui **github**, **trello** dan **wakatime**
 2. Boleh mengajukan judul selain judul dibawah ini
 3. Jika memilih bimbingan ke saya harus commit untuk selalu bimbingan setiap minggu
 4. First come first serve
@@ -11,13 +11,17 @@
 
 ## Offer Judul LA 2018
 
-1. _Whatsapp Gateway System Multi Channel_
+1. **Whatsapp Gateway System Multi Channel**
 
    Membuat sebuah chat gateway via whatsapp yang dapat mengirim informasi kepada sekelompok user, dengan menggunakan teknologi java robot awt sebagai bot dari sisi user serta nodejs dan angular untuk sisi administrasi datanya.
 
-2.
+2. **Cloud based Android Money Manager App**
 
-3.
+   Membuat aplikasi catatan keuangan pribadi berbasis android serta membuat server backend nya menggunakan nodejs dan angular.
+
+3. **Android based Whatsapp sticker creator**
+
+   Aplikasi editor foto berbasis android untuk membuat personal stiker whatsapp, requirement editor foto bisa mengambil gambar dari kamera kemudian tampil di editor yang dapan mengcustom gambar menjadi gambar berformat .Webp dan menyimpan stiker ke whatsapp
 
 ## Offer Judul Skripsi 2018
 
