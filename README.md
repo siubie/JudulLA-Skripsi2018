@@ -25,4 +25,8 @@
 
 ## Offer Judul Skripsi 2018
 
-1.
+1. **Frontend auto generator based on backend REST API**
+
+   Aplikasi web untuk membuat / mengenerate aplikasi lain yang mengambil data dari sebuah rest backend, backend akan berbasis REST dan frontend berbasis angular.
+
+2.
