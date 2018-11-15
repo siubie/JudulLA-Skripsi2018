@@ -11,9 +11,12 @@
 
 ## Offer Judul LA 2018
 
-1. Whatsapp Gateway System Multi Channel
+1. _Whatsapp Gateway System Multi Channel_
+
    Membuat sebuah chat gateway via whatsapp yang dapat mengirim informasi kepada sekelompok user, dengan menggunakan teknologi java robot awt sebagai bot dari sisi user serta nodejs dan angular untuk sisi administrasi datanya.
+
 2.
+
 3.
 
 ## Offer Judul Skripsi 2018
