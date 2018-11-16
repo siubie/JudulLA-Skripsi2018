@@ -23,6 +23,10 @@
 
    Aplikasi editor foto berbasis android untuk membuat personal stiker whatsapp, requirement editor foto bisa mengambil gambar dari kamera kemudian tampil di editor yang dapan mengcustom gambar menjadi gambar berformat .Webp dan menyimpan stiker ke whatsapp
 
+4. **Safe browsing plugin**
+
+   Addon web browser untuk safe browsing anak, dimana orang tua dapat mengontrol website mana yang boleh dibuka atau tidak, LA ini terdiri dari 2 sistem sistem admin orang tua berupa web based dan client orang tua berupa android dimana orang tua dapat melihat history browsing anak saat menggunakan browser.
+
 ## Offer Judul Skripsi 2018
 
 1. **Frontend auto generator based on backend REST API**
@@ -33,3 +37,7 @@
 
    Aplikasi android untuk menghitung jumlah koloni bakteri pada laboratorium, bahan bacaan :
    http://medixgraph.com/cfuscope.html, https://www.nature.com/articles/s41598-018-24916-9, http://opencfu.sourceforge.net/, https://arxiv.org/pdf/1210.5502.pdf
+
+3. To be added soon
+4. To be added soon
+5. To be added soon
