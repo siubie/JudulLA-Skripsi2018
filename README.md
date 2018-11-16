@@ -31,7 +31,7 @@
 
 1. **Frontend auto generator based on backend REST API**
 
-   Aplikasi web untuk membuat / mengenerate aplikasi lain yang mengambil data dari sebuah rest backend, backend akan berbasis REST dan frontend berbasis angular.
+   Aplikasi web untuk membuat / mengenerate aplikasi lain yang mengambil data dari sebuah rest backend, backend akan berbasis REST dan frontend berbasis angular. [Booked]
 
 2. **Colony Forming Counter**
 
