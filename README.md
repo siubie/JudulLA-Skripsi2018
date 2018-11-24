@@ -31,13 +31,13 @@
 
 1. **Frontend auto generator based on backend REST API**
 
-   Aplikasi web untuk membuat / mengenerate aplikasi lain yang mengambil data dari sebuah rest backend, backend akan berbasis REST dan frontend berbasis angular. [**Booked**]
+   Aplikasi web untuk membuat / mengenerate aplikasi lain yang mengambil data dari sebuah rest backend, backend akan berbasis REST dan frontend berbasis angular. [**Taken : Rizki Alviandra**]
 
 2. **Colony Forming Counter**
 
    Aplikasi android untuk menghitung jumlah koloni bakteri pada laboratorium, bahan bacaan :
-   http://medixgraph.com/cfuscope.html, https://www.nature.com/articles/s41598-018-24916-9, http://opencfu.sourceforge.net/, https://arxiv.org/pdf/1210.5502.pdf
+   http://medixgraph.com/cfuscope.html, https://www.nature.com/articles/s41598-018-24916-9, http://opencfu.sourceforge.net/, https://arxiv.org/pdf/1210.5502.pdf [**Taken : Dicky Pradana**]
 
-3. To be added soon
-4. To be added soon
+3. Document similarity menggunakan Longest Common Subsequence [**Taken : Imam**]
+4. Sms Spam filter berbasis android dan naive bayes [**Taken : Afdal**]
 5. To be added soon
